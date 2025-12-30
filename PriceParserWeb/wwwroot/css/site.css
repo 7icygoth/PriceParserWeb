@@ -1,0 +1,55 @@
+/* Стили для сайта */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.navbar-brand {
+    font-weight: bold;
+    color: #0d6efd !important;
+}
+
+.card {
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+    transition: transform 0.2s ease;
+}
+
+    .card:hover {
+        transform: translateY(-2px);
+    }
+
+.price-tag {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #28a745;
+}
+
+.shop-badge {
+    font-size: 0.85rem;
+    padding: 0.25em 0.5em;
+    border-radius: 12px;
+}
+
+.no-price {
+    color: #6c757d;
+    font-style: italic;
+}
+
+.btn-primary {
+    background-color: #0d6efd;
+    border: none;
+    padding: 0.5rem 1rem;
+    font-weight: 500;
+}
+
+    .btn-primary:hover {
+        background-color: #0b5ed7;
+    }
+
+.form-control {
+    border-radius: 8px;
+}
+
+.alert {
+    border-radius: 8px;
+}

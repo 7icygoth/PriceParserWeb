@@ -1,0 +1,341 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\OS\\PriceParserWeb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{123491C9-F146-4A12-B6BF-3ECE415202F9}|PriceParserWeb\\PriceParserWeb.csproj|c:\\os\\priceparserweb\\priceparserweb\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{123491C9-F146-4A12-B6BF-3ECE415202F9}|PriceParserWeb\\PriceParserWeb.csproj|solutionrelative:priceparserweb\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123491C9-F146-4A12-B6BF-3ECE415202F9}|PriceParserWeb\\PriceParserWeb.csproj|C:\\OS\\PriceParserWeb\\priceparserweb\\models\\pricerecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{123491C9-F146-4A12-B6BF-3ECE415202F9}|PriceParserWeb\\PriceParserWeb.csproj|solutionrelative:priceparserweb\\models\\pricerecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123491C9-F146-4A12-B6BF-3ECE415202F9}|PriceParserWeb\\PriceParserWeb.csproj|C:\\OS\\PriceParserWeb\\priceparserweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{123491C9-F146-4A12-B6BF-3ECE415202F9}|PriceParserWeb\\PriceParserWeb.csproj|solutionrelative:priceparserweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123491C9-F146-4A12-B6BF-3ECE415202F9}|PriceParserWeb\\PriceParserWeb.csproj|C:\\OS\\PriceParserWeb\\priceparserweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{123491C9-F146-4A12-B6BF-3ECE415202F9}|PriceParserWeb\\PriceParserWeb.csproj|solutionrelative:priceparserweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123491C9-F146-4A12-B6BF-3ECE415202F9}|PriceParserWeb\\PriceParserWeb.csproj|C:\\OS\\PriceParserWeb\\priceparserweb\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{123491C9-F146-4A12-B6BF-3ECE415202F9}|PriceParserWeb\\PriceParserWeb.csproj|solutionrelative:priceparserweb\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123491C9-F146-4A12-B6BF-3ECE415202F9}|PriceParserWeb\\PriceParserWeb.csproj|C:\\OS\\PriceParserWeb\\priceparserweb\\services\\backgroundparserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{123491C9-F146-4A12-B6BF-3ECE415202F9}|PriceParserWeb\\PriceParserWeb.csproj|solutionrelative:priceparserweb\\services\\backgroundparserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123491C9-F146-4A12-B6BF-3ECE415202F9}|PriceParserWeb\\PriceParserWeb.csproj|C:\\OS\\PriceParserWeb\\priceparserweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{123491C9-F146-4A12-B6BF-3ECE415202F9}|PriceParserWeb\\PriceParserWeb.csproj|solutionrelative:priceparserweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123491C9-F146-4A12-B6BF-3ECE415202F9}|PriceParserWeb\\PriceParserWeb.csproj|C:\\OS\\PriceParserWeb\\priceparserweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{123491C9-F146-4A12-B6BF-3ECE415202F9}|PriceParserWeb\\PriceParserWeb.csproj|solutionrelative:priceparserweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123491C9-F146-4A12-B6BF-3ECE415202F9}|PriceParserWeb\\PriceParserWeb.csproj|C:\\OS\\PriceParserWeb\\priceparserweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{123491C9-F146-4A12-B6BF-3ECE415202F9}|PriceParserWeb\\PriceParserWeb.csproj|solutionrelative:priceparserweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123491C9-F146-4A12-B6BF-3ECE415202F9}|PriceParserWeb\\PriceParserWeb.csproj|C:\\OS\\PriceParserWeb\\priceparserweb\\services\\priceparserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{123491C9-F146-4A12-B6BF-3ECE415202F9}|PriceParserWeb\\PriceParserWeb.csproj|solutionrelative:priceparserweb\\services\\priceparserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123491C9-F146-4A12-B6BF-3ECE415202F9}|PriceParserWeb\\PriceParserWeb.csproj|C:\\OS\\PriceParserWeb\\priceparserweb\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{123491C9-F146-4A12-B6BF-3ECE415202F9}|PriceParserWeb\\PriceParserWeb.csproj|solutionrelative:priceparserweb\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123491C9-F146-4A12-B6BF-3ECE415202F9}|PriceParserWeb\\PriceParserWeb.csproj|C:\\OS\\PriceParserWeb\\priceparserweb\\migrations\\20251216185915_addurldomotextoproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{123491C9-F146-4A12-B6BF-3ECE415202F9}|PriceParserWeb\\PriceParserWeb.csproj|solutionrelative:priceparserweb\\migrations\\20251216185915_addurldomotextoproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123491C9-F146-4A12-B6BF-3ECE415202F9}|PriceParserWeb\\PriceParserWeb.csproj|C:\\OS\\PriceParserWeb\\priceparserweb\\services\\ipriceparserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{123491C9-F146-4A12-B6BF-3ECE415202F9}|PriceParserWeb\\PriceParserWeb.csproj|solutionrelative:priceparserweb\\services\\ipriceparserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123491C9-F146-4A12-B6BF-3ECE415202F9}|PriceParserWeb\\PriceParserWeb.csproj|C:\\OS\\PriceParserWeb\\priceparserweb\\models\\homeindexviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{123491C9-F146-4A12-B6BF-3ECE415202F9}|PriceParserWeb\\PriceParserWeb.csproj|solutionrelative:priceparserweb\\models\\homeindexviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123491C9-F146-4A12-B6BF-3ECE415202F9}|PriceParserWeb\\PriceParserWeb.csproj|C:\\OS\\PriceParserWeb\\priceparserweb\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{123491C9-F146-4A12-B6BF-3ECE415202F9}|PriceParserWeb\\PriceParserWeb.csproj|solutionrelative:priceparserweb\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123491C9-F146-4A12-B6BF-3ECE415202F9}|PriceParserWeb\\PriceParserWeb.csproj|C:\\OS\\PriceParserWeb\\priceparserweb\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{123491C9-F146-4A12-B6BF-3ECE415202F9}|PriceParserWeb\\PriceParserWeb.csproj|solutionrelative:priceparserweb\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123491C9-F146-4A12-B6BF-3ECE415202F9}|PriceParserWeb\\PriceParserWeb.csproj|C:\\OS\\PriceParserWeb\\priceparserweb\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{123491C9-F146-4A12-B6BF-3ECE415202F9}|PriceParserWeb\\PriceParserWeb.csproj|solutionrelative:priceparserweb\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123491C9-F146-4A12-B6BF-3ECE415202F9}|PriceParserWeb\\PriceParserWeb.csproj|C:\\OS\\PriceParserWeb\\priceparserweb\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{123491C9-F146-4A12-B6BF-3ECE415202F9}|PriceParserWeb\\PriceParserWeb.csproj|solutionrelative:priceparserweb\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123491C9-F146-4A12-B6BF-3ECE415202F9}|PriceParserWeb\\PriceParserWeb.csproj|C:\\OS\\PriceParserWeb\\priceparserweb\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{123491C9-F146-4A12-B6BF-3ECE415202F9}|PriceParserWeb\\PriceParserWeb.csproj|solutionrelative:priceparserweb\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123491C9-F146-4A12-B6BF-3ECE415202F9}|PriceParserWeb\\PriceParserWeb.csproj|C:\\OS\\PriceParserWeb\\priceparserweb\\priceparserweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{123491C9-F146-4A12-B6BF-3ECE415202F9}|PriceParserWeb\\PriceParserWeb.csproj|solutionrelative:priceparserweb\\priceparserweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\OS\\PriceParserWeb\\PriceParserWeb\\appsettings.json",
+              "RelativeDocumentMoniker": "PriceParserWeb\\appsettings.json",
+              "ToolTip": "C:\\OS\\PriceParserWeb\\PriceParserWeb\\appsettings.json",
+              "RelativeToolTip": "PriceParserWeb\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-16T19:32:34.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HomeIndexViewModel.cs",
+              "DocumentMoniker": "C:\\OS\\PriceParserWeb\\PriceParserWeb\\Models\\HomeIndexViewModel.cs",
+              "RelativeDocumentMoniker": "PriceParserWeb\\Models\\HomeIndexViewModel.cs",
+              "ToolTip": "C:\\OS\\PriceParserWeb\\PriceParserWeb\\Models\\HomeIndexViewModel.cs",
+              "RelativeToolTip": "PriceParserWeb\\Models\\HomeIndexViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T18:18:12.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IPriceParserService.cs",
+              "DocumentMoniker": "C:\\OS\\PriceParserWeb\\PriceParserWeb\\Services\\IPriceParserService.cs",
+              "RelativeDocumentMoniker": "PriceParserWeb\\Services\\IPriceParserService.cs",
+              "ToolTip": "C:\\OS\\PriceParserWeb\\PriceParserWeb\\Services\\IPriceParserService.cs",
+              "RelativeToolTip": "PriceParserWeb\\Services\\IPriceParserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T16:59:43.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BackgroundParserService.cs",
+              "DocumentMoniker": "C:\\OS\\PriceParserWeb\\PriceParserWeb\\Services\\BackgroundParserService.cs",
+              "RelativeDocumentMoniker": "PriceParserWeb\\Services\\BackgroundParserService.cs",
+              "ToolTip": "C:\\OS\\PriceParserWeb\\PriceParserWeb\\Services\\BackgroundParserService.cs",
+              "RelativeToolTip": "PriceParserWeb\\Services\\BackgroundParserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T16:59:48.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\OS\\PriceParserWeb\\PriceParserWeb\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PriceParserWeb\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\OS\\PriceParserWeb\\PriceParserWeb\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PriceParserWeb\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAAwE0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T17:01:33.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PriceRecord.cs",
+              "DocumentMoniker": "C:\\OS\\PriceParserWeb\\PriceParserWeb\\Models\\PriceRecord.cs",
+              "RelativeDocumentMoniker": "PriceParserWeb\\Models\\PriceRecord.cs",
+              "ToolTip": "C:\\OS\\PriceParserWeb\\PriceParserWeb\\Models\\PriceRecord.cs",
+              "RelativeToolTip": "PriceParserWeb\\Models\\PriceRecord.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T17:00:08.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\OS\\PriceParserWeb\\PriceParserWeb\\Program.cs",
+              "RelativeDocumentMoniker": "PriceParserWeb\\Program.cs",
+              "ToolTip": "C:\\OS\\PriceParserWeb\\PriceParserWeb\\Program.cs",
+              "RelativeToolTip": "PriceParserWeb\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAwCkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T17:01:24.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\OS\\PriceParserWeb\\PriceParserWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PriceParserWeb\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\OS\\PriceParserWeb\\PriceParserWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PriceParserWeb\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-16T18:19:32.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\OS\\PriceParserWeb\\PriceParserWeb\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "PriceParserWeb\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\OS\\PriceParserWeb\\PriceParserWeb\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "PriceParserWeb\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAABkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-16T17:01:49.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\OS\\PriceParserWeb\\PriceParserWeb\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "PriceParserWeb\\Models\\Product.cs",
+              "ToolTip": "C:\\OS\\PriceParserWeb\\PriceParserWeb\\Models\\Product.cs",
+              "RelativeToolTip": "PriceParserWeb\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T17:00:02.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\OS\\PriceParserWeb\\PriceParserWeb\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "PriceParserWeb\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\OS\\PriceParserWeb\\PriceParserWeb\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "PriceParserWeb\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-17T18:56:05.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PriceParserService.cs",
+              "DocumentMoniker": "C:\\OS\\PriceParserWeb\\PriceParserWeb\\Services\\PriceParserService.cs",
+              "RelativeDocumentMoniker": "PriceParserWeb\\Services\\PriceParserService.cs",
+              "ToolTip": "C:\\OS\\PriceParserWeb\\PriceParserWeb\\Services\\PriceParserService.cs",
+              "RelativeToolTip": "PriceParserWeb\\Services\\PriceParserService.cs",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAAwIMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T16:59:38.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\OS\\PriceParserWeb\\PriceParserWeb\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "PriceParserWeb\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\OS\\PriceParserWeb\\PriceParserWeb\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "PriceParserWeb\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T18:55:19.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20251216185915_AddUrlDomotexToProduct.cs",
+              "DocumentMoniker": "C:\\OS\\PriceParserWeb\\PriceParserWeb\\Migrations\\20251216185915_AddUrlDomotexToProduct.cs",
+              "RelativeDocumentMoniker": "PriceParserWeb\\Migrations\\20251216185915_AddUrlDomotexToProduct.cs",
+              "ToolTip": "C:\\OS\\PriceParserWeb\\PriceParserWeb\\Migrations\\20251216185915_AddUrlDomotexToProduct.cs",
+              "RelativeToolTip": "PriceParserWeb\\Migrations\\20251216185915_AddUrlDomotexToProduct.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T18:59:15.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\OS\\PriceParserWeb\\PriceParserWeb\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "PriceParserWeb\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\OS\\PriceParserWeb\\PriceParserWeb\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "PriceParserWeb\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T19:09:03.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\OS\\PriceParserWeb\\PriceParserWeb\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "PriceParserWeb\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\OS\\PriceParserWeb\\PriceParserWeb\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "PriceParserWeb\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T16:59:20.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\OS\\PriceParserWeb\\PriceParserWeb\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "PriceParserWeb\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\OS\\PriceParserWeb\\PriceParserWeb\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "PriceParserWeb\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAABMAAAAAAAAAAAAqwC0AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-12-16T18:46:56.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\OS\\PriceParserWeb\\PriceParserWeb\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "PriceParserWeb\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\OS\\PriceParserWeb\\PriceParserWeb\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "PriceParserWeb\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-16T18:19:19.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\OS\\PriceParserWeb\\PriceParserWeb\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "PriceParserWeb\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\OS\\PriceParserWeb\\PriceParserWeb\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "PriceParserWeb\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-16T17:03:56.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PriceParserWeb",
+              "DocumentMoniker": "C:\\OS\\PriceParserWeb\\PriceParserWeb\\PriceParserWeb.csproj",
+              "RelativeDocumentMoniker": "PriceParserWeb\\PriceParserWeb.csproj",
+              "ToolTip": "C:\\OS\\PriceParserWeb\\PriceParserWeb\\PriceParserWeb.csproj*",
+              "RelativeToolTip": "PriceParserWeb\\PriceParserWeb.csproj*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-16T17:03:00.999Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

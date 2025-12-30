@@ -1,0 +1,88 @@
+﻿@model HomeIndexViewModel
+
+<div class="row">
+    <div class="col-md-6">
+        <div class="card mb-4 p-4">
+            <h5>Добавить товар</h5>
+            <form asp-action="AddProduct" method="post">
+                <div class="mb-3">
+                    <label class="form-label">Название</label>
+                    <input name="Name" class="form-control" required />
+                </div>
+                <div class="mb-3">
+                    <label class="form-label">Ссылка на neptun66.ru</label>
+                    <input name="UrlNeptun" class="form-control" placeholder="https://neptun66.ru/..." />
+                </div>
+                <div class="mb-3">
+                    <label class="form-label">Ссылка на domotex.ru</label>
+                    <input name="UrlDomotex" class="form-control" placeholder="https://www.domotex.ru/..." />
+                </div>
+                <button type="submit" class="btn btn-primary w-100">Добавить</button>
+            </form>
+        </div>
+    </div>
+
+    <div class="col-md-6">
+        <div class="card mb-4 p-4">
+            <h5>Управление</h5>
+            <form asp-action="RunParser" method="post">
+                <button type="submit" class="btn btn-success w-100 mb-2">▶ Запустить парсинг</button>
+            </form>
+        </div>
+    </div>
+</div>
+
+<hr />
+
+<h5>Товары</h5>
+
+@if (Model.Products.Any())
+{
+    <div class="table-responsive">
+        <table class="table-hover table">
+            <thead class="table-light">
+                <tr>
+                    <th>Название</th>
+                    <th>Сайты</th>
+                    <th>Цена</th>
+                    <th>Действия</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var p in Model.Products)
+                {
+                    <tr>
+                        <td><strong>@p.Name</strong></td>
+                        <td>
+                            @if (p.HasNeptun) { <span class="badge bg-info me-1">neptun66</span> }
+                            @if (p.HasDomotex) { <span class="badge bg-success me-1">domotex</span> }
+                        </td>
+                        <td>
+                            @if (p.MinPrice.HasValue)
+                            {
+                                <span class="price-tag">@p.MinPrice.Value.ToString("C")</span>
+                                <br /><small class="text-muted">в @p.BestShop</small>
+                            }
+                            else
+                            {
+                                <span class="no-price">цена не найдена</span>
+                            }
+                        </td>
+                        <td>
+                            <form asp-action="DeleteProduct" asp-route-id="@p.Id" method="post" style="display:inline;">
+                                <button type="submit" class="btn btn-sm btn-outline-danger"
+                                        onclick="return confirm('Удалить этот товар?')">
+                                    Удалить
+                                </button>
+                            </form>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+}
+else
+{
+    <div class="alert alert-warning">Нет добавленных товаров.</div>
+}
